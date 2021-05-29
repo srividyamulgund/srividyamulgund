@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning so many new technologies.
+- 👯 I’m looking to collaborate on Full stack projects.
+- 📫 How to reach me: https://www.linkedin.com/in/srividya-mulgund-45782943/
+- 😄 Pronouns: She/her.
+
 <!--
 **srividyamulgund/srividyamulgund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
