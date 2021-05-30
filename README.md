@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning so many new technologies.
-- 👯 I’m looking to collaborate on Full stack projects.
-- 📫 How to reach me: https://www.linkedin.com/in/srividya-mulgund-45782943/
+- 🔭 I’m currently working on Java and JavaScript projects 😉
+- 🌱 I’m currently learning new technologies :sparkles: and refreshing my skills :rocket: 
+- 👯 I’m looking to collaborate on interesting projects :sparkler:
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srividya-mulgund-45782943/) 
 - 😄 Pronouns: She/her.
 
 <!--
